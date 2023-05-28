@@ -106,7 +106,7 @@ namespace EscrowProofOfConcept.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Email")]
+        [Display(Name = "Emai l")]
         public string Email { get; set; }
     }
 }
